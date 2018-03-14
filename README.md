@@ -1,14 +1,13 @@
-# java-card-game-engine
-Specifications and source code for a Java based card game engine.
+# java-card-game-engine: A slow and painful descent into madness
+Specifications and source code for a Java based lovecraftian horror.
 
 Game rules are specified in a rules.<game>.txt file. The rules must specify the correct deck and board files to be used. The game engine will then dynamically create all necessary components to play the game, with game play following the rules file. See plugin/PluginKeyword for list of known Plugin keywords.
 
 ##Licensing
-The MIT License (MIT). See LICENSE.txt.
+Ostensibly, the MIT license. In practice, one shouldn't need a license as that would imply you are reading the code. See LICENSE.txt.
 
 ##To Do
-* Add engine operations
-* Create rules for additional games
+* Cry
 
 ##Complete
 * Basic strutures built and tested (playing card, deck, cardpile, board)
